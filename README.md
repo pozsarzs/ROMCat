@@ -122,7 +122,7 @@
 
 ## 5. Examples
 
-See _example.bin_ file.
+See _example_ directory.
 
 ## 6. Implementations
 
